@@ -14,11 +14,10 @@ misc projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whileloop-png&label=Profile%20views&color=0e75b6&style=flat" alt="whileloop-png" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">mwa</h3>
 <p align="left">
 <a href="https://discord.gg/2kpphQ8Qx3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2kpphQ8Qx3" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whileloop-png&" alt="whileloop-png" /></p>
