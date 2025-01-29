@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>3️⃣6️⃣ Exception Caught .. Stack Overflow 3️⃣6️⃣</h3>
+  <h3>Exception Caught .. Stack Overflow</h3>
   <p>i do stuff..</p>
   <p>this github is full of either dead projects or projects i dont really care about</p>
   <p>currently working on stuff that is NOT shown here, (alot of the shit in this github is garbage)</p>
