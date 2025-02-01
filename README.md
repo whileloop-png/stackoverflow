@@ -9,7 +9,7 @@
   <p>i do stuff..</p>
   <p>this github is full of either dead projects or projects i dont really care about</p>
   <p>currently working on stuff that is NOT shown here, (alot of the shit in this github is garbage)</p>
-  <p><a href="https://www.loader.boykizr.xyz">my website</a></p>
+  <p><a href="https://boykizr.xyz">my website</a></p>
 </div>
 
 
